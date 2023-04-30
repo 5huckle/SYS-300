@@ -1,0 +1,9 @@
+Welcome everyone! This is my first test page
+
+It says 'Go' at the top because I wrote 'func' and VSC auto recognized
+this as a Go Programming Language and formatted the page as such
+
+Because of this, words like if and func will be different colors as they
+are recognized by VSC as Go language and dictates it as such.
+
+
